@@ -3,8 +3,6 @@ SecureChat is  desktop application built with python where you can send secure m
 
 # ScreenShots
 
-
-
 <table align="center">
   <tr>
     <td>Login</td>
@@ -17,3 +15,8 @@ SecureChat is  desktop application built with python where you can send secure m
     <td><img src="./Screenshots/ChatRoom.png" width=350 height=350></td>
   </tr>
    </table>
+
+## Collaborators
+This project was developped by :
+| Raoua Trimech | Hadil Helali |
+| --- | --- |
